@@ -1,6 +1,6 @@
 # Site
 title:              Hello there, I'M Wazir Qorni Abud
-bio:                'Informatics student at Malang State Polytechnic'
+bio:                'Backend Developer | Cloud Engineer'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,9 +37,9 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              dahyunisme@gmail.com
 #twitter:           username
-#facebook:          username
+facebook:           nicoco1173
 github-url:         rikurunico
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           wazirnico
@@ -58,7 +58,7 @@ instagram:          wazirnico_
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
+keybase:            nicoco1173
 #xmpp:              username@server.com
 #hackernews:        username
 
